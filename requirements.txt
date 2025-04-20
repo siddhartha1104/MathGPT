@@ -6,4 +6,6 @@ langchain-groq
 streamlit
 wikipedia
 numexpr
+pytest
+
 
